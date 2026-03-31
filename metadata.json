@@ -1,0 +1,5 @@
+{
+  "name": "SmartSave",
+  "description": "An intelligent expense tracker and savings assistant using Agile Savings Sprints. Tracks multiple bank accounts (HDFC, SBI, etc.), analyzes spending per bank, and provides AI-powered financial advice.",
+  "requestFramePermissions": []
+}
