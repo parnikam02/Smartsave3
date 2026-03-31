@@ -101,7 +101,9 @@ SmartSave/
 - Expense Tracking  
 - AI-based Financial Advisory  
 
----
+---## 🔗 Live Demo
+
+👉 http://192.168.31.191:3000/
 
 ## 📌 Future Enhancements
 
